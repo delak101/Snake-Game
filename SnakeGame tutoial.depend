@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1641262403 source:c:\users\administrator\documents\code blocks ep\snakegame tutoial\main.cpp
+	"graphics.h"
+	"mmsystem.h"
+	"windows.h"
+	"stdio.h"
+	"conio.h"
+	<iostream>
+	<climits>
+	<cstdlib>
+	<ctime>
+	<queue>
+
+1266126614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1641810258 source:c:\users\delak\documents\code blocks ep\snakegame tutoial\main.cpp
+	"graphics.h"
+	"mmsystem.h"
+	"windows.h"
+	"stdio.h"
+	"conio.h"
+	<iostream>
+	<climits>
+	<cstdlib>
+	<ctime>
+	<queue>
+
